@@ -21,8 +21,6 @@ Hi! I am a passionate software developer who loves to build web and mobile appli
 
 <img align="right" src="https://user-images.githubusercontent.com/6431486/111874149-94c2bf00-8972-11eb-9c8d-a00ebc96d841.gif" width="512">
 
-**Languages and Tools:**
-
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="64" width="64" src="https://user-images.githubusercontent.com/6431486/111877147-a317d780-8980-11eb-8179-6a0f06006241.png"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
