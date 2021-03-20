@@ -26,14 +26,15 @@ Hi! I am a passionate software developer who loves to build web and mobile appli
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="64" width="64" src="https://user-images.githubusercontent.com/6431486/111877147-a317d780-8980-11eb-8179-6a0f06006241.png"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
+<code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="64" src="https://user-images.githubusercontent.com/6431486/111877209-fbe77000-8980-11eb-9407-41801879ea00.png"></code>
+
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="64" src="https://user-images.githubusercontent.com/6431486/111877726-55e93500-8983-11eb-9f6a-bf1e4aa356ee.png"></code>
-
 <code><img height="64" src="https://user-images.githubusercontent.com/6431486/111877760-84671000-8983-11eb-853b-97a3a457650a.png"></code>
+
 <code><img height="64" src="https://user-images.githubusercontent.com/6431486/111877237-1cafc580-8981-11eb-8153-fd049d2ce5da.png"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
