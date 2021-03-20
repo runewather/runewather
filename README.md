@@ -17,7 +17,7 @@ Hi! I am a passionate software developer who loves to build web and mobile appli
 </a>
 
 <br/>
-<br/>
+
 ## :computer:Languages and Tools:
 
 <img align="right" src="https://user-images.githubusercontent.com/6431486/111874149-94c2bf00-8972-11eb-9c8d-a00ebc96d841.gif" width="512">
