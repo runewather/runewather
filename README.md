@@ -16,6 +16,9 @@ Hi! I am a passionate software developer who loves to build web and mobile appli
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+<br/>
+<br/>
+
 <img align="right" src="https://user-images.githubusercontent.com/6431486/111874149-94c2bf00-8972-11eb-9c8d-a00ebc96d841.gif" width="512">
 
 **Languages and Tools:**
