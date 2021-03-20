@@ -19,7 +19,7 @@ Hi! I am a passionate software developer who loves to build web and mobile appli
 <br/>
 <br/>
 
-## Languages and Tools:
+## :computer:Languages and Tools:
 
 <img align="right" src="https://user-images.githubusercontent.com/6431486/111874149-94c2bf00-8972-11eb-9c8d-a00ebc96d841.gif" width="512">
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -39,6 +39,5 @@ Hi! I am a passionate software developer who loves to build web and mobile appli
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <code><img height="64" src="https://user-images.githubusercontent.com/6431486/111877847-f0e20f00-8983-11eb-9bca-56dbde092c44.png"></code>
-
 
 
