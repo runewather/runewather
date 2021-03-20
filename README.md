@@ -39,4 +39,4 @@ Hi! I am a passionate software developer who loves to build web and mobile appli
 
 <code><img height="64" src="https://user-images.githubusercontent.com/6431486/111877847-f0e20f00-8983-11eb-9bca-56dbde092c44.png"></code>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=c++,c)](https://github.com/anuraghazra/github-readme-stats)
